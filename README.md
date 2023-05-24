@@ -6,7 +6,8 @@ Date: May 24, 2023
 Tags: .net core, c#, chatGPT, json, notion
 
 ```
-Show me the code to call rest api in post http method in .net core in c# , make sure  add the snippet in the code to pass in the header parameters  and also show me how to pass the json payload as request, also show me how to check the http status and navigate through the response json
+Show me the code to call rest api in post http method in .net core in c# , make sure  add the snippet in the code to pass in the header parameters     
+and also show me how to pass the json payload as request, also show me how to check the http status and navigate through the response json
 ```
 
 ## How to call rest api in .net core in C#  - by notion AI.
