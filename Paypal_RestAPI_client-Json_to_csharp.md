@@ -50,7 +50,7 @@ My other reason for using Notion AI was to explore the ability of AI code genera
     
 3. Choose the following settings: 
     
-    ![Untitled](images\Paypal_RestAPI_client-Json_to_csharp/Untitled.png)
+    ![Untitled](images/Paypal_RestAPI_client-Json_to_csharp/Untitled.png)
     
 4. Click convert to get the c# code. 
     
