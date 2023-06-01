@@ -1,7 +1,7 @@
-# EPG project - Paypal Rest API - part 3
+# How to generate C# objects based on json payload
 
 Date: June 1, 2023
-Tags: AAA, Prompt, automation, c#, chatGPT, epg, json, rest api
+Tags: Prompt, automation, c#, chatGPT, epg, json, rest api
 
 # Summary:
 
@@ -50,7 +50,7 @@ My other reason for using Notion AI was to explore the ability of AI code genera
     
 3. Choose the following settings: 
     
-    ![Untitled](EPG%20project%20-%20Paypal%20Rest%20API%20-%20part%203%2080175615ea464c1b88cf13f5e0384e33/Untitled.png)
+    ![Untitled](images\Paypal_RestAPI_client-Json_to_csharp/Untitled.png)
     
 4. Click convert to get the c# code. 
     
